@@ -2,8 +2,11 @@ body {
   background-color: powderblue;
 }
 h1 {
+  text-size-adjust: 40px;
   color: blue;
 }
 p {
+  text-size-adjust: 12px;
+  text-align: center;
   color: red;
 }
