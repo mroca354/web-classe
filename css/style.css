@@ -25,14 +25,17 @@ p {
     background-color: chocolate;
     width: 300px;
     height: 300px;
+    float:left;
   }
   .caixa2{
     background-color: rgb(30, 210, 96);
     width: 300px;
     height: 300px;
+    float:left;
   }
   .caixa3{
     background-color: rgb(144, 23, 47);
     width: 300px;
     height: 300px;
+    float:left;
   }
