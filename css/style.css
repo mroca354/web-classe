@@ -39,3 +39,8 @@ p {
     height: 300px;
     float:left;
   }
+  .contenidor{
+    width: 900px;
+    height: 900px;
+    border:#2e518b 5px dashed;
+  }
